@@ -8,7 +8,9 @@
 
 <p align="center">
   <a href="https://github.com/QuentinGalloisDev/P_3">
-    <img src="https://via.placeholder.com/80" alt="Logo" width="80" height="80">
+    <img src="https://github.com/user-attachments/assets/479f64bc-5672-4095-a38f-3f2a85542126" alt="Logo" width="392" height="68">
+
+
   </a>
 </p>
 
@@ -26,18 +28,28 @@
 ## Table des matières
 
 * [À propos du projet](#à-propos-du-projet)
+  * [Contexte](#contexte)
+  * [Objectifs](#objectifs)
   * [Technologies](#technologies)
-  * [Fonctionnalités](#fonctionnalités)
 * [Prise en main](#prise-en-main)
   * [Prérequis](#prérequis)
   * [Installation](#installation)
 * [Utilisation](#utilisation)
-* [Licence](#licence)
 * [Contact](#contact)
 
 ## À propos du projet
 
-**P_3** est un projet de développement d'une application web de recherche d'hébergements, incluant un moteur de recherche pour filtrer les résultats en fonction de divers critères comme la localisation, le type d'hébergement, etc. Ce projet met l'accent sur l'intégration de fonctionnalités interactives en JavaScript ainsi que sur une mise en page responsive.
+*Le projet OhMyFood* est un projet visant à dynamiser une page web en utilisant des animations CSS pour améliorer l'interaction et l'expérience utilisateur.
+
+### Contexte
+
+L'optimisation des interactions utilisateur à travers des animations fluides est essentielle pour créer une expérience utilisateur moderne et attrayante. Ce projet se concentre sur l'intégration de techniques CSS avancées pour animer divers éléments de la page.
+
+### Objectifs
+
+- Ajouter des animations pour les transitions de page.
+- Animer les éléments de la page tels que les boutons, les images, et les textes.
+- Utiliser des techniques CSS modernes pour garantir des animations fluides et performantes.
 
 ### Technologies
 
@@ -71,11 +83,8 @@ Assurez-vous d'avoir un éditeur de texte (comme Visual Studio Code) et un navig
 
 ## Utilisation
 
-Une fois que vous avez ouvert le fichier `index.html`, vous pouvez utiliser le moteur de recherche intégré pour explorer les différents hébergements disponibles.
-   
-## Licence
-
-Distribué sous la licence MIT. Voir `LICENSE` pour plus d'informations.
+Une fois le fichier `index.html` ouvert dans votre navigateur, vous pourrez voir les différentes animations appliquées aux éléments de la page. Explorez les interactions pour comprendre comment les animations améliorent l'expérience utilisateur.
+  
 
 ## Contact
 
