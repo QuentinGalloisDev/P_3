@@ -84,6 +84,8 @@ Assurez-vous d'avoir un éditeur de texte (comme Visual Studio Code) et un navig
 ## Utilisation
 
 Une fois le fichier `index.html` ouvert dans votre navigateur, vous pourrez voir les différentes animations appliquées aux éléments de la page. Explorez les interactions pour comprendre comment les animations améliorent l'expérience utilisateur.
+
+Vous pouvez également avoir un aperçu du projet hébergé sur git : https://quentingalloisdev.github.io/P_3/
   
 
 ## Contact
